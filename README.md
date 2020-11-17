@@ -8,7 +8,7 @@ La aplicación consulta la api de Amedeus para obtener datos sobre los vuelos.
 Por otro lado, para conseguir datos de los hoteles se consulta un DataSet obtenido de Kaggle.
 
 # Información para ejecutar el proyecto
-Para ejecutar el código es necesario instalar Amadeus desde la consola: pip install amadeus
+Para ejecutar el código es necesario instalar Amadeus desde la consola: pip install amadeus.
 También necesitarás obtener las api keys. En los enlaces que dejo más abajo, encontrás una url que te llevará a la guía
 para desarrolladores de Amadeus, ahí están todos los pasos a seguir.
 
